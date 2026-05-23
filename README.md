@@ -1,4 +1,4 @@
-# cp2-edge
+# Checkpoint-02-edge
 
 # 🍷 Vinheria Agnello — Sistema de Monitoramento Ambiental
 
