@@ -7,6 +7,7 @@
 > Checkpoint 02
 
 ---
+https://canva.link/siwblmhfzmuen32
 
 ## 📋 Descrição do Projeto
 
